@@ -1,0 +1,30 @@
+.logo,
+.logo-collapsed {
+  width: 120px;
+  height: 31px;
+  background: url('../images/corda-logo.svg') top left no-repeat;
+  background-size: contain;
+  margin: 16px;
+}
+
+.logo-collapsed {
+  height: 31px;
+  width: auto;
+  background: url('../images/corda-small.svg') top left no-repeat;
+  background-size: contain;
+}
+
+.ant-menu-item {
+  
+  a:hover {
+    color: red;
+  }
+
+  &-selected {
+    a, a:hover {  
+      color: red;
+    }
+  }
+}
+
+

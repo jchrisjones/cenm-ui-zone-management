@@ -1,0 +1,71 @@
+[
+  {
+    "id": "g1",
+    "name": "group1",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": [
+      "user_new",
+      "Istvan Farmosi",
+      "Chris Jones",
+      "John Doe",
+      "Tim Cook"
+    ],
+    "admin": false
+  },
+  {
+    "id": "g2",
+    "name": "group2",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": ["Tim Cook", "user_new", "Istvan Farmosi", "Chris Jones"],
+    "admin": false
+  },
+  {
+    "id": "g3",
+    "name": "group3",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": ["Istvan Farmosi", "Tim Cook"],
+    "admin": false
+  },
+  {
+    "id": "g4",
+    "name": "group4",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": null,
+    "admin": false
+  },
+  {
+    "id": "g5",
+    "name": "group5",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": null,
+    "admin": false
+  },
+  {
+    "id": "g6",
+    "name": "engineering",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": ["Zlatko Iliev", "Dan Abramow"],
+    "admin": false
+  },
+  {
+    "id": "g7",
+    "name": "all",
+    "description": null,
+    "autoEnroll": false,
+    "provider": "internal",
+    "users": ["Chuck Norris"],
+    "admin": false
+  }
+]
